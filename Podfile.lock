@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (3.2.0)
+  - KMPlaceholderTextView (1.1.1)
+  - RSKGrowingTextView (1.0.1):
+    - RSKPlaceholderTextView (= 1.0.0)
+  - RSKPlaceholderTextView (1.0.0)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - KMPlaceholderTextView (~> 1.1.1)
+  - RSKGrowingTextView
+  - RSKPlaceholderTextView (= 1.0.0)
+  - SDWebImage (~> 3.7)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 42bdb102d2624b143c07850ebdc1537d5b6579b6
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 4da478599fccddff361205c8929333d7fe18dceb
+  KMPlaceholderTextView: 686edec818f5727728eaf8c2e9e70177692d3d53
+  RSKGrowingTextView: 585888654fb5007e13089a71923ce78e53a6f0d4
+  RSKPlaceholderTextView: a34174067f43aa176abe0fc4de9f6ce29f2306c7
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
